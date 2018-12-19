@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://root@140.143.163.73:22/root/.local/share/virtualenvs/pingtai-oqMi2Avt/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="~/PycharmProjects/pingtai" remote-root="/root/workspace/pingtai" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
