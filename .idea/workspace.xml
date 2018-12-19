@@ -21,7 +21,6 @@
       <change beforePath="$PROJECT_DIR$/../lib/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/constant.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/collection/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/collection/collect_crawlresult.py" beforeDir="false" />
@@ -137,11 +136,11 @@
         <entry file="file://$PROJECT_DIR$/app/user/asset_account.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
-                <marker date="1545233877479" expanded="true" signature="186:321" ph="..." />
-                <marker date="1545233877479" expanded="true" signature="383:388" ph="..." />
+                <marker date="1545234296637" expanded="true" signature="186:321" ph="..." />
+                <marker date="1545234296637" expanded="true" signature="383:388" ph="..." />
               </folding>
             </state>
           </provider>
@@ -432,11 +431,11 @@
     <entry file="file://$PROJECT_DIR$/app/user/asset_account.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
-            <marker date="1545233877479" expanded="true" signature="186:321" ph="..." />
-            <marker date="1545233877479" expanded="true" signature="383:388" ph="..." />
+            <marker date="1545234296637" expanded="true" signature="186:321" ph="..." />
+            <marker date="1545234296637" expanded="true" signature="383:388" ph="..." />
           </folding>
         </state>
       </provider>
