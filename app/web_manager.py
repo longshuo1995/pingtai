@@ -2,10 +2,7 @@ from app import create_app
 
 from conf import setting
 
-print('ready create..')
 app = create_app()
-print('create.. success')
-print(app)
 
 
 if __name__ == '__main__':
