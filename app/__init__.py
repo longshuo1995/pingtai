@@ -9,7 +9,7 @@ def create_app():
 
 
 def register_blueprint(app):
-    print('hahahahhh')
+    print('import blue print')
     from app.user import bl_user
     print('ready register...')
     app.register_blueprint(bl_user)
