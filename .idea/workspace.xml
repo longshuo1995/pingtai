@@ -14,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/../db/db_file.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../db/db_sql.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../db/scheduler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kd_spider/app/web_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../kd_spider/app/web_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/HttpTool.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/OsTool.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/StrTool.py" beforeDir="false" />
@@ -71,6 +70,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
           <entry key="js" value="3" />
           <entry key="py" value="8" />
@@ -80,12 +80,14 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="54" />
+          <entry key="gitignore" value="53" />
           <entry key="html" value="442" />
           <entry key="js" value="518" />
           <entry key="py" value="2115" />
@@ -95,7 +97,7 @@
         <counts>
           <entry key="HTML" value="442" />
           <entry key="JavaScript" value="518" />
-          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="PLAIN_TEXT" value="107" />
           <entry key="Python" value="2115" />
         </counts>
       </usages-collector>
@@ -133,7 +135,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/user/asset_account.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -143,6 +145,15 @@
                 <marker date="1545234296637" expanded="true" signature="186:321" ph="..." />
                 <marker date="1545234296637" expanded="true" signature="383:388" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -176,6 +187,7 @@
         <option value="$PROJECT_DIR$/app/templates/user/receive.html" />
         <option value="$PROJECT_DIR$/db/db_mongo.py" />
         <option value="$PROJECT_DIR$/app/user/asset_account.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -323,6 +335,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2880987" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -437,6 +450,13 @@
             <marker date="1545234296637" expanded="true" signature="186:321" ph="..." />
             <marker date="1545234296637" expanded="true" signature="383:388" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
