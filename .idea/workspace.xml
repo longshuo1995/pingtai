@@ -21,8 +21,6 @@
       <change beforePath="$PROJECT_DIR$/../lib/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lib/constant.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/user/asset_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/asset_account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/web_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/web_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/collection/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/collection/collect_crawlresult.py" beforeDir="false" />
@@ -75,7 +73,7 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
           <entry key="js" value="3" />
-          <entry key="py" value="10" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -83,7 +81,7 @@
           <entry key="HTML" value="2" />
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="10" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -92,7 +90,7 @@
           <entry key="gitignore" value="56" />
           <entry key="html" value="442" />
           <entry key="js" value="518" />
-          <entry key="py" value="2514" />
+          <entry key="py" value="2620" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -100,7 +98,7 @@
           <entry key="HTML" value="442" />
           <entry key="JavaScript" value="518" />
           <entry key="PLAIN_TEXT" value="110" />
-          <entry key="Python" value="2514" />
+          <entry key="Python" value="2620" />
         </counts>
       </usages-collector>
     </session>
@@ -125,11 +123,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/web_manager.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -185,16 +192,16 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/conf/setting.py" />
         <option value="$PROJECT_DIR$/app/user/user.py" />
-        <option value="$PROJECT_DIR$/app/__init__.py" />
         <option value="$PROJECT_DIR$/app/user/assert_account.py" />
         <option value="$PROJECT_DIR$/app/static/js/jquery-3.3.1.min.js" />
         <option value="$PROJECT_DIR$/app/static/js/verify.js" />
         <option value="$PROJECT_DIR$/app/templates/user/receive.html" />
-        <option value="$PROJECT_DIR$/app/user/__init__.py" />
         <option value="$PROJECT_DIR$/db/db_mongo.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/user/asset_account.py" />
         <option value="$PROJECT_DIR$/app/web_manager.py" />
+        <option value="$PROJECT_DIR$/app/user/__init__.py" />
+        <option value="$PROJECT_DIR$/app/__init__.py" />
       </list>
     </option>
   </component>
@@ -228,6 +235,12 @@
               <item name="pingtai" type="b2602c69:ProjectViewProjectNode" />
               <item name="pingtai" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pingtai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pingtai" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pingtai" type="b2602c69:ProjectViewProjectNode" />
@@ -348,7 +361,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25126263" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3472222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/user/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/db_mongo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -434,13 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -459,6 +458,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/user/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
