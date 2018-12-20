@@ -5,6 +5,7 @@
     <title>test</title>
 </head>
 <body>
+    <h2>{{ data.msg }}</h2>
     短信检测<input type="text" id="tocheck">
     <button id="btn">点击检测</button>
 
@@ -13,6 +14,16 @@
         密码<input type="text" name="password" id="password"><br>
         <input type="submit" value="提交">
     </form>
+
+    <table border="1">
+        <tr>
+            <td>用户名</td>
+            <td>密码</td>
+        </tr>
+        {% for data_item in data.accounts %}
+            <th>{{ data_item.account }}</th>
+            <th>{{ data_item.password }}</th>
+        {% endfor %}}
     <script src="/static/js/jquery-3.3.1.min.js"></script>
     <script src="/static/js/verify.js"></script>
 

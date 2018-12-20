@@ -26,11 +26,12 @@ def save_account():
     elif db_mongo.account.qq_account.find({'account': username.strip()}):
         data['msg'] = '账号已存在~'
     else:
-        db_mongo.account.insert_one({
+        item_account = {
             'account': username,
             'password': password,
             'timestamp': int(time.time()),
-        })
+        }
+        db_mongo.account.insert_one(item_account)
         data['msg'] = '提交成功'
-
+        data['accounts'].append(item_account)
     return render_template('user/receive.html', data=data)
