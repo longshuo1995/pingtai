@@ -31,7 +31,7 @@ def save_account():
             'password': password,
             'timestamp': int(time.time()),
         }
-        db_mongo.account.insert_one(item_account)
+        db_mongo.account.qq_account.insert_one(item_account)
         data['msg'] = '提交成功'
         data['accounts'].append(item_account)
     return render_template('user/receive.html', data=data)
