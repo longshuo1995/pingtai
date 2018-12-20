@@ -20,10 +20,13 @@
             <td>用户名</td>
             <td>密码</td>
         </tr>
+        <tr>
         {% for data_item in data.accounts %}
-            <th>{{ data_item.account }}</th>
-            <th>{{ data_item.password }}</th>
-        {% endfor %}}
+            <td>{{ data_item.account }}</td>
+            <td>{{ data_item.password }}</td>
+        {% endfor %}
+        </tr>
+    </table>
     <script src="/static/js/jquery-3.3.1.min.js"></script>
     <script src="/static/js/verify.js"></script>
 
