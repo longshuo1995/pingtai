@@ -23,7 +23,7 @@ def save_account():
     data = get_init_data()
     if not username or not password:
         data['msg'] = '请输入账号密码'
-    elif db_mongo.account.qq_account.find({'account': username.strip()}):
+    elif list(db_mongo.account.qq_account.find({'account': username.strip()})):
         data['msg'] = '账号已存在~'
     else:
         item_account = {
